@@ -1,0 +1,12 @@
+.expenses-list {
+  list-style: none;
+  padding: 0;
+}
+.scroll{
+  overflow-y:scroll;
+  max-height: 10px;
+}
+.expenses-list__fallback {
+  color: white;
+  text-align: center;
+}

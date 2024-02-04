@@ -1,6 +1,6 @@
 ==>Project Overview
 
-    ->Welcome to the Expense Tracker Frontend Project! This ReactJS and CSS-based application is designed to offer users an intuitive and visually appealing experience for managing and visualizing their expenses through interactive graphs.
+   ->Welcome to the Expense Tracker Frontend Project! This ReactJS and CSS-based application is designed to offer users an intuitive and visually appealing experience for managing and visualizing their expenses through interactive graphs.
 
 ==>Technologies Used
 
